@@ -1,0 +1,200 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background-color: #333;
+    height: 70px;
+}
+
+.hero img {
+    padding-left:200px;
+    height: 50px;
+    /* text-align: end; */
+    justify-content: space-evenly;
+}
+
+.navbar h1 {
+    margin-left: 30px;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar ul li {
+    list-style: none;
+    padding: 10px 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    border-top: 3px solid blue;
+    height: 20px;
+    padding-top: 10px;
+}
+
+.content {
+    background: url(/bg-forms-1.jpg) no-repeat center center/cover;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: space-between;
+    /* align-items: center; */
+    /* text-align: center; */
+
+}
+
+.hero .content {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+
+.hero .content h1 {
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+.hero .content p {
+    font-size: 30px;
+}
+
+.content input {
+    padding: 10px 20px;
+    /* display: flex; */
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.class {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.Rental {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+
+}
+
+.price {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.rate {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.shivansh {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.goswami {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.rupees {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: start;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.aman {
+    display: flex;
+    flex-direction: column;
+    background-color: #333;
+    height: 80vh;
+}
+
+.aman h1 {
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: column;
+}
+
+.divya {
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+
+.shukla {
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+
+.neetesh {
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+.aman div{
+    display: flex;
+    flex-direction:row;
+}
